@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS1", "WorkshopSS6\WS1.csproj", "{764552B3-3813-4CA7-92EC-059ACD29BEA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invertory", "Invertory\Invertory.csproj", "{643E8BB9-BDD2-43B8-99E9-09CE59FA2B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contructor", "Contructor\Contructor.csproj", "{D4D277E4-9057-4C02-9857-7316C7F24BF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764552B3-3813-4CA7-92EC-059ACD29BEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764552B3-3813-4CA7-92EC-059ACD29BEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764552B3-3813-4CA7-92EC-059ACD29BEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764552B3-3813-4CA7-92EC-059ACD29BEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643E8BB9-BDD2-43B8-99E9-09CE59FA2B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643E8BB9-BDD2-43B8-99E9-09CE59FA2B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643E8BB9-BDD2-43B8-99E9-09CE59FA2B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643E8BB9-BDD2-43B8-99E9-09CE59FA2B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D277E4-9057-4C02-9857-7316C7F24BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D277E4-9057-4C02-9857-7316C7F24BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D277E4-9057-4C02-9857-7316C7F24BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D277E4-9057-4C02-9857-7316C7F24BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1213D765-34EA-45B9-96E4-B8EF78CEE40E}
+	EndGlobalSection
+EndGlobal

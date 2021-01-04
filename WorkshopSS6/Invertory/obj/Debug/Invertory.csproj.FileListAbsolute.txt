@@ -1,0 +1,6 @@
+C:\Users\Son\source\repos\WorkshopSS6\Invertory\bin\Debug\Invertory.exe.config
+C:\Users\Son\source\repos\WorkshopSS6\Invertory\bin\Debug\Invertory.exe
+C:\Users\Son\source\repos\WorkshopSS6\Invertory\bin\Debug\Invertory.pdb
+C:\Users\Son\source\repos\WorkshopSS6\Invertory\obj\Debug\Invertory.csproj.CoreCompileInputs.cache
+C:\Users\Son\source\repos\WorkshopSS6\Invertory\obj\Debug\Invertory.exe
+C:\Users\Son\source\repos\WorkshopSS6\Invertory\obj\Debug\Invertory.pdb

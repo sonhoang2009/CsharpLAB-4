@@ -1,0 +1,7 @@
+C:\Users\Son\source\repos\WorkshopSS6\Contructor\bin\Debug\Contructor.exe.config
+C:\Users\Son\source\repos\WorkshopSS6\Contructor\bin\Debug\Contructor.exe
+C:\Users\Son\source\repos\WorkshopSS6\Contructor\bin\Debug\Contructor.pdb
+C:\Users\Son\source\repos\WorkshopSS6\Contructor\obj\Debug\Contructor.csprojAssemblyReference.cache
+C:\Users\Son\source\repos\WorkshopSS6\Contructor\obj\Debug\Contructor.csproj.CoreCompileInputs.cache
+C:\Users\Son\source\repos\WorkshopSS6\Contructor\obj\Debug\Contructor.exe
+C:\Users\Son\source\repos\WorkshopSS6\Contructor\obj\Debug\Contructor.pdb
